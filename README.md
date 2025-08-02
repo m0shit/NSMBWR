@@ -11,7 +11,7 @@ Change the path present on line 17 to wherever your /Stage directory is located.
 
 Open "music_randomizer.py".
 
-Change the path present on line 17 to wherever you /stream directory is located. (e.g /Sound/stream)
+Change the path present on line 17 to wherever your /stream directory is located. (e.g /Sound/stream)
 
 Open "randomizer.bat" and wait for it to finish. Do the same with "music_randomizer.bat"
 
